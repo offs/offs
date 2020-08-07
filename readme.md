@@ -6,5 +6,5 @@
   <br>
   <br>
   <br>
-  <img width="100px" src="kirby.gif" width="350" />
+  <img width="100px" src="https://raw.githubusercontent.com/offs/offs/master/kirby.gif" width="350" />
 </p>
