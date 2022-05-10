@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>t. ✨</br></br>Here are a few of my projects:</br>Social media branding: <a href="https://github.com/socialsgg">Socials.gg 🌠</a></br>GMod client security script: <a href="https://github.com/offs/Nova">Nova 💫</a></samp>
+  <samp>t. ✨</br></br>Here are a few of my projects:</br>Social media branding: <a href="https://github.com/socialsgg">Socials.gg 🌠</a></br>OpenAI Discord Chatbot: <a href="https://github.com/offs/gpt-discord">OpenAI Discord ✨</a></br>GMod client security script: <a href="https://github.com/offs/Nova">Nova 💫</a></samp>
   <br>
   <br>
   <br>
