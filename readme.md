@@ -7,5 +7,5 @@
   <br>
   <br>
   <img width="100px" src="https://i.pinimg.com/736x/0c/fc/fd/0cfcfd2c8c54df97fe5a4374f7a5a242.jpg" width="350" /><br>
-  <samp><a href="x.com/lst">x dot com </a></samp>
+  <samp><a href="https://x.com/lst">x dot com </a></samp>
 </p>
